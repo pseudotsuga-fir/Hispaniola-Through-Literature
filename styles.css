@@ -1,0 +1,10 @@
+.map-wrapper {
+    width: 100%;
+}
+
+#mapid { 
+    margin: 0 auto;
+    justify-content: center;
+    height: 98vh; 
+    width: 98vw;
+}
