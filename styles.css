@@ -49,6 +49,13 @@
     color: #808080;
 }
 
+.popup-lead {
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: -11px;
+    margin-top: 0px;
+}
+
 .leaflet-popup-content-wrapper {
     overflow-y: auto;
     height: 60vh;
@@ -71,5 +78,6 @@
     margin-top: 70px;
 }
 
-.leaflet-popup-tip-container {
+.leaflet-popup-content p {
+    font-size: 13.5px;
 }
