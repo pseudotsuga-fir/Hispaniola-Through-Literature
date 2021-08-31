@@ -9,7 +9,7 @@ window.onload = function () {
     id: 'andrewhep/ckmci3m4eaq6p17qyc8cc92d5',
     tileSize: 512,
     zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoiYW5kcmV3aGVwIiwiYSI6ImNrbWF6MTg4ejF1MXcycW9jd2VlNzFjcHcifQ.Pqo0abOQwpbJzUzaeX_lJA'
+    accessToken: 'pk.eyJ1IjoiYW5kcmV3aGVwIiwiYSI6ImNrdDBwMm1nMTA3aGsycHA4OWFrMmxsOXMifQ.U0evxf4uounQU8paDa1zDQ'
     }).addTo(mymap)
 
     //Markers
